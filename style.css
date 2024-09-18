@@ -1,0 +1,209 @@
+
+#naaz{
+    width: 400px;
+    border: 1.5px solid black;
+    display: inline-block;
+    border-radius: 25px;
+    height: 400px;
+    font-size: 30px;
+    text-align: center;
+}
+h1{
+    color: rgb(69, 69, 151);
+}
+#download{
+    width: 90px;
+    height: 30px;
+    margin-left: 130px;
+    background-color: rgb(98, 231, 187);
+}
+
+#naaz1{
+    height: 255px;
+    width: 400px;
+    border: 1.5px solid black;
+    display: inline;
+    border-radius: 25px;
+     float: right;
+    margin-right: 510px;
+    margin-top: -400px;
+}
+#naaz2{
+    height: 255px;
+    width: 400px;
+    border: 1.5px solid black;
+    display: inline;
+    border-radius: 25px;
+    float: right;
+    margin-top: -400px;
+    margin-right: 100px;
+
+}
+#naaz3{
+    height: 190px;
+    width: 500px;
+    border: 1.5px solid black;
+    display: inline;
+    border-radius: 25px;
+    float: right;
+    margin-top:-120px;
+    margin-right: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+
+button{
+    width: 50px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#aqua{
+
+    background-color: aqua;
+}
+#sienna{
+    background-color: sienna;
+}
+#blue{
+    background-color: blue;
+}
+#pink{
+    background-color: pink;
+}
+#olive{
+    background-color: olive;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color:yellow;
+}
+#gray{
+    background-color: gray;
+}
+#orange{
+    background-color: orange;
+}
+#purple{
+    background-color: purple;
+}
+#lime{
+    background-color: lime;
+}
+#coral{
+    background-color: coral;
+}
+#navy{
+    background-color: navy;
+}
+#blueviolet{
+    background-color: blueviolet;
+}
+#teal{
+    background-color: teal;
+}
+
+#black{
+    background-color: black;
+}
+#goldenrod{
+    background-color: goldenrod;
+}
+#brown{
+    background-color: brown;
+}
+#wheat{
+    background-color: wheat;
+}
+
+#text{
+    height: 100px;
+    width: 300px;
+}
+
+ #sans-serif{
+  
+    font-family: "cursive";
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+    
+}
+#arial{
+    font-family:unset;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic3{
+    font-family:italic;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+    
+}
+#italic5{
+    font-family: Courier New, Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    width: 70px;
+}
+#italic6{
+    font-family:bodoni;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic7{
+    font-family: Impact, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic8{
+    font-family: belwe;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic9{
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic10{
+    font-family: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans, Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic11{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#italic12{
+    font-family: Impact, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: 60px;
+}
+#white{
+    background-color:rgb(230, 112, 76);
+    width: 90px;
+    
+}
